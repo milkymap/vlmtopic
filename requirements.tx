@@ -1,0 +1,14 @@
+click 
+rich 
+
+pyzmq
+pydantic 
+python-dotenv 
+
+llama-cpp-python
+fastapi 
+uvicorn 
+
+umap-learn
+sentence-transformers
+protobuf
